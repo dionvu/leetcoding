@@ -1,4 +1,8 @@
 -- Ordered by the top being the least recently repeated.
 
+s39_combination_sum (unsure)
 s1_two_sum
 s11_container_with_most_water
+s34_find_first_and_last_pos_
+s49_group_anagrams
+s66_plus_one
